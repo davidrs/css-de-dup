@@ -1,0 +1,25 @@
+{
+  "name": "css-de-dup",
+  "version": "0.0.1",
+  "description": "Find duplicate CSS classes and ids.",
+  "main": "main.js",
+  "dependencies": {
+    "jquery": "~1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidrs/css-de-dup.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "David",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/davidrs/css-de-dup/issues"
+  }
+}
